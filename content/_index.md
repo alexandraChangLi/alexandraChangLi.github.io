@@ -85,7 +85,7 @@ sections:
           company_url: ''
           company_logo: ''
           location: Shanghai, Mainland China
-          date_start: '2023-11'
+          date_start: 'Nov 2023'
           date_end: ''
           description: Conduct alpha research on market data.
         - title: Software Development Engineer Intern
@@ -93,8 +93,8 @@ sections:
           company_url: ''
           company_logo: ''
           location: Beijing, Mainland China
-          date_start: '2022-06'
-          date_end: '2022-09'
+          date_start: 'Jun 2022'
+          date_end: 'Sep 2022'
           description: Develop features for Youdao Dictionary on iOS devices.
     design:
       columns: '2'
@@ -112,7 +112,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: '2021-2022'
+          date_start: 'Sep 2022'
           description: ''
           icon: ''
           organization: Peple's Republic of China
@@ -120,7 +120,7 @@ sections:
           title: National Scholarship
           url: ''
         - date_end: ''
-          date_start: '2021-2022'
+          date_start: 'Sep 2022'
           description: ''
           icon: ''
           organization: Peking University
