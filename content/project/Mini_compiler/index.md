@@ -9,6 +9,5 @@ date: "2023-01-06"
 Codebase: https://github.com/lexieli1228/compilingLabPKU
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
