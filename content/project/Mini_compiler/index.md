@@ -1,6 +1,6 @@
 ---
 title: Mini Compiler
-summary: A mini compiler that translates C to RISCV. Final project of the undergraduate course, Compiler Principles. `external_link`.
+summary: A mini compiler that translates C to RISCV. Final project of the undergraduate course, Compiler Principles.
 tags:
   - Course
 date: "2023-01-06"
