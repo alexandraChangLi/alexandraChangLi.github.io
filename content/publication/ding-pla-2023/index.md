@@ -1,0 +1,35 @@
+---
+title: 'PLA: Language-Driven Open-Vocabulary 3D Scene Understanding'
+authors:
+- Runyu Ding
+- Jihan Yang
+- Chuhui Xue
+- Wenqing Zhang
+- Song Bai
+- Xiaojuan Qi
+date: '2023-03-01'
+publishDate: '2024-01-15T06:08:03.605221Z'
+publication_types:
+- manuscript
+publication: '*arXiv*'
+abstract: Open-vocabulary scene understanding aims to localize and recognize unseen
+  categories beyond the annotated label space. The recent breakthrough of 2D open-vocabulary
+  perception is largely driven by Internet-scale paired imagetext data with rich vocabulary
+  concepts. However, this success cannot be directly transferred to 3D scenarios due
+  to the inaccessibility of large-scale 3D-text pairs. To this end, we propose to
+  distill knowledge encoded in pretrained vision-language (VL) foundation models through
+  captioning multi-view images from 3D, which allows explicitly associating 3D and
+  semantic-rich captions. Further, to foster coarse-to-fine visual-semantic representation
+  learning from captions, we design hierarchical 3Dcaption pairs, leveraging geometric
+  constraints between 3D scenes and multi-view images. Finally, by employing contrastive
+  learning, the model learns language-aware embeddings that connect 3D and text for
+  open-vocabulary tasks. Our method not only remarkably outperforms baseline methods
+  by 25.8% ∼ 44.7% hIoU and 14.5% ∼ 50.4% hAP50 in open-vocabulary semantic and instance
+  segmentation, but also shows robust transferability on challenging zero-shot domain
+  transfer tasks. See the project website at https://dingry.github.io/projects/PLA.
+tags:
+- Computer Science - Computer Vision and Pattern Recognition
+links:
+- name: URL
+  url: http://arxiv.org/abs/2211.16312
+---

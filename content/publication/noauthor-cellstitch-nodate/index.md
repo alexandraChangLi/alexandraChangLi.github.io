@@ -1,0 +1,20 @@
+---
+title: 'CellStitch: 3D Cellular Anisotropic Image Segmentation via Optimal Transport'
+date: -01-01
+publishDate: '2024-01-15T06:08:03.701147Z'
+publication_types:
+- article-journal
+abstract: 'Methods: To address these challenges, we formulate the problem of finding
+  cell correspondence 23 across layers with a novel optimal transport (OT) approach.
+  We propose CellStitch, a flexible 24 pipeline that segments cells from 3D images
+  without requiring large amounts of 3D training 25 data. We further extend our method
+  to interpolate internal slices from highly anisotropic cell 26 images to recover
+  isotropic cell morphology. 27 Results: We evaluated the performance of CellStitch
+  through eight 3D plant microscopic 28 datasets with diverse anisotropic levels and
+  cell shapes. CellStitch substantially outperforms the 29 state-of-the art methods
+  on anisotropic images, and achieves comparable segmentation quality 30 against competing
+  methods in isotropic setting. We benchmarked and reported 3D segmenta31 tion results
+  of all the methods with instance-level precision, recall and average precision (AP)
+  32 metrics. 33 Conclusion: The proposed OT-based 3D segmentation pipeline outperformed
+  the existing 1'
+---

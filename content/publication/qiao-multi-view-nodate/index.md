@@ -1,0 +1,28 @@
+---
+title: Multi-view Spectral Polarization Propagation for Video Glass Segmentation
+authors:
+- Yu Qiao
+- Bo Dong
+- Ao Jin
+- Yu Fu
+- Seung-Hwan Baek
+- Felix Heide
+- Pieter Peers
+- Xiaopeng Wei
+- Xin Yang
+date: -01-01
+publishDate: '2024-01-15T06:08:03.890902Z'
+publication_types:
+- article-journal
+abstract: In this paper, we present the first polarization-guided video glass segmentation
+  propagation solution (PGVS-Net) that can robustly and coherently propagate glass
+  segmentation in RGB-P video sequences. By leveraging spatiotemporal polarization
+  and color information, our method combines multi-view polarization cues and thus
+  can alleviate the view dependence of single-input intensity variations on glass
+  objects. We demonstrate that our model can outperform glass segmentation on RGB-only
+  video sequences as well as produce more robust segmentation than per-frame RGB-P
+  single-image segmentation methods. To train and validate PGVS-Net, we introduce
+  a novel RGB-P Glass Video dataset (PGV-117) containing 117 video sequences of scenes
+  captured with different types of camera paths, lighting conditions, dynamics, and
+  glass types.
+---
