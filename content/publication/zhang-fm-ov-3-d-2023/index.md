@@ -2,9 +2,9 @@
 title: 'FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary
   3D Detection'
 authors:
-- Dongmei Zhang
-- Chang Li
-- Ray Zhang
+- Dongmei Zhang*
+- admin*
+- Ray Zhang*
 - Shenghao Xie
 - Wei Xue
 - Xiaodong Xie
