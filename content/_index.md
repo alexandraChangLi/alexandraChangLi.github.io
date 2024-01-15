@@ -85,7 +85,7 @@ sections:
           company_url: ''
           company_logo: ''
           location: Shanghai, Mainland China
-          date_start: 'Nov 2023'
+          date_start: '2021-11-06'
           date_end: ''
           description: Conduct alpha research on market data.
         - title: Software Development Engineer Intern
@@ -93,8 +93,8 @@ sections:
           company_url: ''
           company_logo: ''
           location: Beijing, Mainland China
-          date_start: 'Jun 2022'
-          date_end: 'Sep 2022'
+          date_start: '2022-06-28'
+          date_end: '2022-09-28'
           description: Develop features for Youdao Dictionary on iOS devices.
     design:
       columns: '2'
@@ -112,7 +112,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: 'Sep 2022'
+          date_start: '2022-10-01'
           description: ''
           icon: ''
           organization: Peple's Republic of China
@@ -120,7 +120,7 @@ sections:
           title: National Scholarship
           url: ''
         - date_end: ''
-          date_start: 'Sep 2022'
+          date_start: '2022-10-01'
           description: ''
           icon: ''
           organization: Peking University
@@ -183,39 +183,14 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you have any questions or want to contact me, welcome to drop an email!
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+      email: 1900012977@pku.edu.cn
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://twitter.com/lexieleeeeee28'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
