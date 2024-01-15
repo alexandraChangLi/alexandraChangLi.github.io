@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 李畅
+title: Chang Li
 
 # Name pronunciation (optional)
 name_pronunciation: ''
