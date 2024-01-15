@@ -2,7 +2,7 @@
 title: Phrase-level Prediction for Video Temporal Localization
 authors:
 - Sizhe Li
-- admin_starred
+- admin
 - Minghang Zheng
 - Yang Liu
 date: '2022-06-01'

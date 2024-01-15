@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chang Li
+title: Chang Li*
 
 # Name pronunciation (optional)
 name_pronunciation: ''
