@@ -105,5 +105,5 @@ social:
 highlight_name: true
 ---
 
-Chang Li obtained her BSc degree in Computer Science and Technology from Peking University in 2023. Her research interests include multi-modal learning, computer vision.
+This site is currently under construction! Chang Li obtained her BSc degree in Computer Science and Technology from Peking University in 2023. Her research interests include multi-modal learning, computer vision.
 {style="text-align: justify;"}
