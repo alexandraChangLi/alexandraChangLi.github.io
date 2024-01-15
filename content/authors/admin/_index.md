@@ -25,7 +25,7 @@ organizations:
     url: https://english.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Chang Li obtained her BSc degree in Computer Science and Technology from Peking University in 2023. Her research interests include multi-modal learning, computer vision.
+bio: This site is under construction! Chang Li obtained her BSc degree in Computer Science and Technology from Peking University in 2023. Her research interests include multi-modal learning, computer vision.
 
 # Interests to show in About widget
 interests:
