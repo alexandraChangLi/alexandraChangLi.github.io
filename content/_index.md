@@ -42,14 +42,32 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
+  - block: collection
+    id: featured
     content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
     design:
-      columns: '1'
+      columns: '2'
+      view: card
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  
   - block: experience
     content:
       title: Professional Experiences
@@ -67,7 +85,7 @@ sections:
           company_url: ''
           company_logo: ''
           location: Shanghai, Mainland China
-          date_start: '2023.11'
+          date_start: '2023-11'
           date_end: ''
           description: Conduct alpha research on market data.
         - title: Software Development Engineer Intern
@@ -146,36 +164,19 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   - block: contact
     id: contact
     content:
