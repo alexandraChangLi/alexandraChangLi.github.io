@@ -153,14 +153,6 @@ sections:
           organization_url: ''
           title: Merit Student
           url: ''
-        - date_end: ''
-          date_start: '2019-09-01'
-          description: ''
-          icon: ''
-          organization: Peking University
-          organization_url: ''
-          title: Freshman Scholarship
-          url: ''
     design:
       columns: '2'
   # - block: markdown
