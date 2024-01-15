@@ -124,10 +124,10 @@ sections:
           description: Develop features for Youdao Dictionary on iOS devices.
     design:
       columns: '2'
-  - block: accomplishments
+  - block: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -152,6 +152,14 @@ sections:
           organization: Peking University
           organization_url: ''
           title: Merit Student
+          url: ''
+        - date_end: ''
+          date_start: '2019-09-01'
+          description: ''
+          icon: ''
+          organization: Peking University
+          organization_url: ''
+          title: Freshman Scholarship
           url: ''
     design:
       columns: '2'
