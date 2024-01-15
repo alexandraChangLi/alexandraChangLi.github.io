@@ -37,6 +37,7 @@ abstract: The superior performances of pre-trained foundation models in various 
 tags:
 - Computer Vision and Pattern Recognition (cs.CV)
 - 'FOS: Computer and information sciences'
+featured: true
 links:
 - name: URL
   url: https://arxiv.org/abs/2312.14465
