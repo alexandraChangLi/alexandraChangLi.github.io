@@ -111,8 +111,8 @@ sections:
           company_url: ''
           company_logo: ''
           location: Shanghai, Mainland China
-          date_start: '2021-11-06'
-          date_end: ''
+          date_start: '2023-11-06'
+          date_end: '2024-02-19'
           description: Conduct alpha research on market data.
         - title: Software Development Engineer Intern
           company: NetEase Company
