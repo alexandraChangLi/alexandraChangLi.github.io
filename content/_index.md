@@ -54,7 +54,6 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
-    id: publications
     content:
       title: Publications
       text: |-
@@ -96,7 +95,6 @@ sections:
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
   - block: experiences
-    id: experiences
     content:
       title: Experiences
       # Date format for experience
@@ -127,7 +125,6 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
-    id: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards'
