@@ -6,19 +6,16 @@
 main:
   - name: Home
     url: '#about'
-    weight: 5
+    weight: 10
   - name: Publications
-    url: '#Publications'
-    weight: 15
-  - name: Experiences
-    url: '#Experiences'
+    url: '#featured'
     weight: 20
-  - name: Awards
-    url: '#Awards'
-    weight: 25
+  - name: Projects
+    url: '#projects'
+    weight: 30
   - name: Contact
     url: '#contact'
-    weight: 35
+    weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
