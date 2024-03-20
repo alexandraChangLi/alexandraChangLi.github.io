@@ -92,9 +92,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=WP8-XuAAAAAJ&hl=zh-CN
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/lexieli1228
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/lexieli1228
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chang-li-752538264/
