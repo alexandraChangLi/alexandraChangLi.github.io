@@ -96,6 +96,7 @@ sections:
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
   - block: experiences
+    id: experiences
     content:
       title: Professional Experiences
       # Date format for experience
