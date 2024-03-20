@@ -187,11 +187,11 @@ sections:
         If you have any questions or want to contact me, welcome to drop an email!
       # Contact (add or remove contact options as necessary)
       email: 1900012977@pku.edu.cn
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/lexieleeeeee28'
+      # contact_links:
+      #   - icon: twitter
+      #     icon_pack: fab
+      #     name: DM Me
+      #     link: 'https://twitter.com/lexieleeeeee28'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
