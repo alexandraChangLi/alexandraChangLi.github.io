@@ -94,9 +94,9 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  - block: experiences
+  - block: experience
     content:
-      title: Experiences
+      title: Professional Experiences
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -202,4 +202,3 @@ sections:
       #     captcha: false
     design:
       columns: '2'
----
