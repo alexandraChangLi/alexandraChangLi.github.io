@@ -25,12 +25,13 @@ organizations:
     url: https://english.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I obtained my BSc degree in Computer Science and Technology from Peking University in 2023. My research interests include multi-modal learning, computer vision.
+bio: I obtained my BSc degree in Computer Science and Technology from Peking University in 2023. 
+# My research interests include multi-modal learning, computer vision.
 
 # Interests to show in About widget
-interests:
-  - Computer Vision
-  - Multi-modal Learning
+# interests:
+#   - Computer Vision
+#   - Multi-modal Learning
 
 # Education to show in About widget
 education:
@@ -82,12 +83,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:1900012977@pku.edu.cn
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/lexieleeeeee28
-    label: Follow me on Twitter
-    display:
-      header: true
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/lexieleeeeee28
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=WP8-XuAAAAAJ&hl=zh-CN
@@ -105,5 +106,5 @@ social:
 highlight_name: true
 ---
 
-I obtained my BSc degree in Computer Science and Technology from Peking University in 2023. My research interests include multi-modal learning, computer vision.
+I obtained my BSc degree in Computer Science and Technology from Peking University in 2023. 
 {style="text-align: justify;"}
