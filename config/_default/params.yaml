@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Chang Li. This work is licensed under {license}. Source: Jekyll with HugoBlox/theme-academic-cv theme. Last updated: Jan 16, 2024.'
+    notice: '© {year} Chang Li. This work is licensed under {license}. Source: Jekyll with HugoBlox/theme-academic-cv theme. Last updated: Sep 5, 2024.'
     license:
       enable: true
       allow_derivatives: false
