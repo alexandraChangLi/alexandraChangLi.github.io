@@ -140,10 +140,18 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
+          date_start: '2024-08-16'
+          description: ''
+          icon: ''
+          organization: Vanderbilt University
+          organization_url: ''
+          title: Engineering Graduate Fellowship
+          url: ''
+        - date_end: ''
           date_start: '2022-10-01'
           description: ''
           icon: ''
-          organization: Peple's Republic of China
+          organization: Ministry of Education of the People’s Republic of China,
           organization_url: ''
           title: National Scholarship
           url: ''
@@ -155,6 +163,23 @@ sections:
           organization_url: ''
           title: Merit Student
           url: ''
+        - date_end: ''
+          date_start: '2019-09-01'
+          description: ''
+          icon: ''
+          organization: 'Peking University'
+          organization_url: ''
+          title: Third Class Freshmen Scholarship
+          url: ''
+        - date_end: ''
+          date_start: '2018-10-01'
+          description: ''
+          icon: ''
+          organization: ''
+          organization_url: ''
+          title: China National Mathematics Olympiad, First Class
+          url: ''
+
     design:
       columns: '2'
   # - block: markdown
