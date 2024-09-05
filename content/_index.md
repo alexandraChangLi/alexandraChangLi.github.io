@@ -186,7 +186,7 @@ sections:
       text: |-
         If you have any questions or want to contact me, welcome to drop an email!
       # Contact (add or remove contact options as necessary)
-      email: 1900012977@pku.edu.cn
+      email: chang.li@vanderbilt.edu
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab

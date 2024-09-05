@@ -23,16 +23,17 @@ role: PhD Student
 organizations:
   - name: Vanderbilt University
     url: https://www.vanderbilt.edu/vise/visepeople/chang-li/
+  - name: Neurdylab
+    url: https://www.cchanglab.net/home
 
 # Short bio (displayed in user profile at end of posts)
-bio: I received my B.Sc. in Computer Science and Technology from the School of EECS, at Peking University. My research interests include deep learning, machine learning and modeling fMRI data. 
+bio: I am a first year PhD student at Vanderbilt University advised by Prof. Catie Chang. I received my B.Sc. in Computer Science and Technology from Peking University. Currently My research interests include deep learning and modeling fMRI data. 
 # My research interests include multi-modal learning, computer vision.
 
 # Interests to show in About widget
 interests:
   - fMRI Data Modeling
   - Deep Learning
-  - Machine Learning
   - Multi-modal Learning
 
 # Education to show in About widget
@@ -41,6 +42,9 @@ education:
     - course: BSc in Computer Science and Technology
       institution: Peking University
       year: 2023
+    - course: PhD in Computer Science
+      institution: Vanderbilt University
+      year: 
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
