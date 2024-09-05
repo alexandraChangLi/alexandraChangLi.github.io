@@ -151,7 +151,7 @@ sections:
           date_start: '2022-10-01'
           description: ''
           icon: ''
-          organization: Ministry of Education of the People’s Republic of China,
+          organization: Ministry of Education of the People’s Republic of China
           organization_url: ''
           title: National Scholarship
           url: ''
@@ -175,7 +175,7 @@ sections:
           date_start: '2018-10-01'
           description: ''
           icon: ''
-          organization: ''
+          organization: Ministry of Education of the People’s Republic of China
           organization_url: ''
           title: China National Mathematics Olympiad, First Class
           url: ''

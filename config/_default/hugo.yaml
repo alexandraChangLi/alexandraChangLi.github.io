@@ -20,8 +20,8 @@ removePathAccents: true
 ############################
 
 enableGitInfo: false
-summaryLength: 10
-paginate: 5
+summaryLength: 5
+paginate: 1
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
