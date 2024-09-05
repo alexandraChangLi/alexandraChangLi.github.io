@@ -41,7 +41,7 @@ education:
   courses:
     - course: BSc in Computer Science and Technology
       institution: Peking University
-      year: 2023
+      year: 
     - course: PhD in Computer Science
       institution: Vanderbilt University
       year: 
@@ -112,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-I received my B.Sc. in Computer Science and Technology from the School of EECS, at Peking University. My research interests include deep learning, machine learning and modeling fMRI data. 
+I am a first year PhD student at Vanderbilt University advised by Prof. Catie Chang. I received my B.Sc. in Computer Science and Technology from Peking University. Currently My research interests include deep learning and modeling fMRI data. 
 {style="text-align: justify;"}
