@@ -107,22 +107,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Quant Research Intern
-          company: Qilin Investment
-          company_url: ''
-          company_logo: ''
-          location: Shanghai, Mainland China
-          date_start: '2023-11-06'
+        - date_start: '2023-11-06'
           date_end: '2024-02-19'
-          description: Conduct alpha research on market data.
-        - title: Software Development Engineer Intern
-          company: NetEase Company
-          company_url: ''
-          company_logo: ''
-          location: Beijing, Mainland China
-          date_start: '2022-06-28'
+          description: ''
+          icon: ''
+          organization: Qilin Investment
+          organization_url: ''
+          title: Quant Research Intern
+          url: ''
+        - date_start: '2022-06-28'
           date_end: '2022-09-28'
-          description: Develop features for Youdao Dictionary on iOS devices.
+          description: ''
+          icon: ''
+          organization: NetEase Company
+          organization_url: ''
+          title: Software Development Engineer Intern
+          url: ''
     design:
       columns: '2'
   - block: accomplishments
