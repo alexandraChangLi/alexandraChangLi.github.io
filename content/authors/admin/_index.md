@@ -17,21 +17,23 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Peking University
-    url: https://english.pku.edu.cn/
+  - name: Vanderbilt University
+    url: https://www.vanderbilt.edu/vise/visepeople/chang-li/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I obtained my BSc degree in Computer Science and Technology from Peking University in 2023. 
+bio: I received my B.Sc. in Computer Science and Technology from the School of EECS, at Peking University. My research interests include deep learning, machine learning and modeling fMRI data. 
 # My research interests include multi-modal learning, computer vision.
 
 # Interests to show in About widget
-# interests:
-#   - Computer Vision
-#   - Multi-modal Learning
+interests:
+  - fMRI Data Modeling
+  - Deep Learning
+  - Machine Learning
+  - Multi-modal Learning
 
 # Education to show in About widget
 education:
@@ -82,7 +84,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:1900012977@pku.edu.cn
+    link: mailto:chang.li@vanderbilt.edu
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/lexieleeeeee28
@@ -95,9 +97,9 @@ social:
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/lexieli1228
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/chang-li-752538264/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/chang-li-752538264/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -106,5 +108,5 @@ social:
 highlight_name: true
 ---
 
-I obtained my BSc degree in Computer Science and Technology from Peking University in 2023. 
+I received my B.Sc. in Computer Science and Technology from the School of EECS, at Peking University. My research interests include deep learning, machine learning and modeling fMRI data. 
 {style="text-align: justify;"}
