@@ -112,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-I am a first year PhD student at Vanderbilt University advised by <a href="https://engineering.vanderbilt.edu/bio/?pid=catie-chang">Prof. Catie Chang</a>. I received my B.Sc. in Computer Science and Technology from Peking University. Currently My research interests include deep learning and modeling fMRI data. 
+I am a first year PhD student at <a href="https://www.cchanglab.net/home">Neurdylab</a> at Vanderbilt University advised by <a href="https://engineering.vanderbilt.edu/bio/?pid=catie-chang">Prof. Catie Chang</a>. I received my B.Sc. in Computer Science and Technology from Peking University. Currently My research interests include deep learning and modeling fMRI data. 
 {style="text-align: justify;"}
