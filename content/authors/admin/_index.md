@@ -41,10 +41,10 @@ education:
   courses:
     - course: BSc in Computer Science and Technology
       institution: Peking University
-      year: 
+      year: 2019-2023
     - course: PhD in Computer Science
       institution: Vanderbilt University
-      year: 
+      year: 2024-
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
