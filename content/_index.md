@@ -177,7 +177,7 @@ sections:
           icon: ''
           organization: Ministry of Education of the People’s Republic of China
           organization_url: ''
-          title: China National Mathematics Olympiad, First Class
+          title: China National Mathematics Olympiad, Provincial, First Prize
           url: ''
 
     design:
