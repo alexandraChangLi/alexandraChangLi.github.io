@@ -108,7 +108,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_start: '2024-09-01'
-          date_end: ''
+          date_end: '2025-01-01'
           description: ''
           icon: ''
           organization: ICLR 2025
@@ -116,7 +116,7 @@ sections:
           title: Reviewer
           url: ''
         - date_start: '2025-01-06'
-          date_end: ''
+          date_end: '2025-04-06'
           description: ''
           icon: ''
           organization: Vanderbilt University, Foundations of Machine Learning
