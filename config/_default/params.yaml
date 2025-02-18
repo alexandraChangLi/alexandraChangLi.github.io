@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: S
+  font_size: L
 
 # SEO
 
@@ -34,7 +34,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: s
+    align: l
     show_logo: true
     show_language: false
     show_day_night: true
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Chang Li. This work is licensed under {license}. Source: Jekyll with HugoBlox/theme-academic-cv theme. Last updated: Sep 5, 2024.'
+    notice: '© {year} Chang Li. This work is licensed under {license}. Source: Jekyll with HugoBlox/theme-academic-cv theme. Last updated: Jan 16, 2024.'
     license:
       enable: true
       allow_derivatives: false
@@ -98,7 +98,7 @@ features:
   map:
     provider: 'mapnik'
     api_key: ''
-    zoom: 5
+    zoom: 15
 
 # Extensions
 
