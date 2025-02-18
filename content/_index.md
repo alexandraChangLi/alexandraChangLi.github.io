@@ -116,7 +116,7 @@ sections:
           title: Reviewer
           url: ''
         - date_start: '2025-01-06'
-          date_end: '2025-04-06'
+          date_end: '2025-04-05'
           description: ''
           icon: ''
           organization: Vanderbilt University, Foundations of Machine Learning
