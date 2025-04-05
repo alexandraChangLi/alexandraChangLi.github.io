@@ -115,6 +115,14 @@ sections:
           organization_url: ''
           title: Reviewer
           url: ''
+        - date_start: '2024-09-01'
+          date_end: '2025-04-01'
+          description: ''
+          icon: ''
+          organization: Vanderbilt University, CS4262/5262 25spring
+          organization_url: ''
+          title: Guest Lecturer
+          url: ''
         - date_start: '2025-01-06'
           date_end: '2025-04-06'
           description: ''
