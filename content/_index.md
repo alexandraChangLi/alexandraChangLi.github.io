@@ -119,7 +119,7 @@ sections:
           date_end: '2025-04-01'
           description: ''
           icon: ''
-          organization: Vanderbilt University, CS4262/5262 25spring
+          organization: Vanderbilt University, CS4262/5262 25spring, VSA 2025
           organization_url: ''
           title: Guest Lecturer
           url: ''
