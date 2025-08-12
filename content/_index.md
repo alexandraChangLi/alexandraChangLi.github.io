@@ -116,10 +116,10 @@ sections:
           title: Reviewer
           url: ''
         - date_start: '2024-09-01'
-          date_end: '2025-04-01'
+          date_end: '2025-08-12'
           description: ''
           icon: ''
-          organization: Vanderbilt University, CS4262/5262 25spring, VSA 2025
+          organization: Vanderbilt University CS4262/5262 2025, VSA 2025, VALIANT AI Summer School 2025
           organization_url: ''
           title: Guest Lecturer
           url: ''
