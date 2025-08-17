@@ -27,7 +27,7 @@ organizations:
   #   url: https://www.cchanglab.net/home
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first year PhD student at Vanderbilt University advised by <a href="https://engineering.vanderbilt.edu/bio/?pid=catie-chang">Prof. Catie Chang</a>. I received my B.Sc. in Computer Science and Technology from Peking University. Currently My research interests include deep learning modeling of EEG-fMRI data. 
+bio: I am a second year PhD student at Vanderbilt University advised by <a href="https://engineering.vanderbilt.edu/bio/?pid=catie-chang">Prof. Catie Chang</a>. I received my B.Sc. in Computer Science and Technology from Peking University. Currently My research interests include deep learning modeling of EEG-fMRI data. 
 # My research interests include multi-modal learning, computer vision.
 
 # Interests to show in About widget
@@ -111,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-I am a second year PhD student at <a href="https://www.cchanglab.net/home">Neurdylab</a>, Vanderbilt University, advised by <a href="https://engineering.vanderbilt.edu/bio/?pid=catie-chang">Prof. Catie Chang</a>. I received my B.Sc. in Computer Science and Technology from Peking University. Currently My research interests include deep learning and modeling fMRI data. 
+I am a second year PhD student at <a href="https://www.cchanglab.net/home">Neurdylab</a>, Vanderbilt University, advised by <a href="https://engineering.vanderbilt.edu/bio/?pid=catie-chang">Prof. Catie Chang</a>. I received my B.Sc. in Computer Science and Technology from Peking University. Currently My research interests include deep learning modeling of EEG-fMRI data. 
 {style="text-align: justify;"}
