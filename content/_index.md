@@ -124,10 +124,10 @@ sections:
           title: Guest Lecturer
           url: ''
         - date_start: '2025-01-06'
-          date_end: '2025-04-06'
+          date_end: '2025-12-04'
           description: ''
           icon: ''
-          organization: Vanderbilt University, Foundations of Machine Learning
+          organization: Vanderbilt University, Foundations of Machine Learning 25Spring, AI-Assisted Design 25Fall
           organization_url: ''
           title: Teaching Assistant
           url: ''
