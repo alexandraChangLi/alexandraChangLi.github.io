@@ -33,7 +33,6 @@ bio: I am a second year PhD student at <a href="https://www.cchanglab.net/home">
 # Interests to show in About widget
 interests:
   - EEG-fMRI
-  - Multi-modal Learning
 
 # Education to show in About widget
 education:
