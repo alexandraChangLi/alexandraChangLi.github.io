@@ -42,16 +42,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  # - block: collection
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
+
   - block: collection
     id: publications
     content:
@@ -108,10 +99,10 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_start: '2024-09-01'
-          date_end: '2025-04-01'
+          date_end: '2026-03-01'
           description: ''
           icon: ''
-          organization: ICLR 2025, MIDL 2025
+          organization: ICLR 2025, MIDL 2025, ICLR 2026, MIDL 2026
           organization_url: ''
           title: Reviewer
           url: ''
@@ -127,7 +118,7 @@ sections:
           date_end: '2025-12-04'
           description: ''
           icon: ''
-          organization: Vanderbilt University, Foundations of Machine Learning 25Spring, AI-Assisted Design 25Fall
+          organization: Vanderbilt University, Found of ML 25Spring & 26Spring, AI-Assisted Design 25Fall
           organization_url: ''
           title: Teaching Assistant
           url: ''
